@@ -1,7 +1,7 @@
 # API_testing
 
 
-Я создала <a href="[https://docs.google.com/spreadsheets/d/13F3SqQkT8GsVRRE4qFwi5nX10LyYTxcF/edit?usp=drive_link&ouid=109099841188130348235&rtpof=true&sd=true](https://drive.google.com/drive/folders/1Hxb1X-jRdU4oePYendovsbvEZNE5TF0i?usp=sharing)">коллекцию</a> в POSTMAN: 
+Я создала <a href="https://docs.google.com/spreadsheets/d/13F3SqQkT8GsVRRE4qFwi5nX10LyYTxcF/edit?usp=drive_link&ouid=109099841188130348235&rtpof=true&sd=true">коллекцию</a> в POSTMAN: 
 
 Задание
 
